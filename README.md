@@ -5,7 +5,7 @@ Site da empresa criada para o desenvolvimento dos projetos do curso superior ci�
 <ul>
   <li><p>👨‍💻 André Nascimento</p></li>
   
-  <li><p>👨‍💻 Gabriel Henrique></p></li>
+  <li><p>👨‍💻 Gabriel Henrique</p></li>
   
   <li><p>👨‍💻 Alan Rodrigues</p></li>
   
