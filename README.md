@@ -1,16 +1,33 @@
-### Hi there 👋
+# 🐇GoCode
+Site da empresa criada para o desenvolvimento dos projetos do curso superior ciência da computação Unip
 
-<!--
-**GoCodeTecnologia/GoCodeTecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Colaboradores da empresa</h2>
+<ul>
+  <li><p>👨‍💻 André Nascimento</p></li>
+  
+  <li><p>👨‍💻 Gabriel Henrique></p></li>
+  
+  <li><p>👨‍💻 Alan Rodrigues</p></li>
+  
+  <li><p>👨‍💻 Matheus do Prado</p></li>
+  
+  <li><p>👨‍💻 Wesley Pires</p></li>
+  
+</ul>
 
-Here are some ideas to get you started:
+<h2>Projetos desenvolvidos</h2>
+<ul>
+  <li>GoCode - Desenvolvimento web, mobile e desktop</li>
+  <li>bioAgro - Soluções sustentáveis</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Tecnologias utilizadas pela empresa</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Bootstrap 5</li>
+  <li>Adobe Photoshop</li>
+</ul>
+
+<!-- <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> - <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
