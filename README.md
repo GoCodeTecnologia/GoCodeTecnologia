@@ -7,11 +7,9 @@ Site da empresa criada para o desenvolvimento dos projetos do curso superior ci�
   
   <li><p>👨‍💻 Gabriel Henrique</p></li>
   
-  <li><p>👨‍💻 Alan Rodrigues</p></li>
-  
   <li><p>👨‍💻 Matheus do Prado</p></li>
   
-  <li><p>👨‍💻 Wesley Pires</p></li>
+  <li><p>👨‍💻 Wesley Queiroz</p></li>
   
 </ul>
 
@@ -26,6 +24,7 @@ Site da empresa criada para o desenvolvimento dos projetos do curso superior ci�
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
+  <li>Python</li>
   <li>Bootstrap 5</li>
   <li>Adobe Photoshop</li>
 </ul>
