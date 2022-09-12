@@ -17,6 +17,7 @@ Site da empresa criada para o desenvolvimento dos projetos do curso superior ci�
 <ul>
   <li><b>GoCode</b> - Desenvolvimento web, mobile e desktop</li>
   <li><b>bioAgro</b> - Soluções sustentáveis</li>
+  <li><b>AgroPy</b> - Gestão Agronoma Inteligente</li>
 </ul>
 
 <h2>Tecnologias utilizadas pela empresa</h2>
