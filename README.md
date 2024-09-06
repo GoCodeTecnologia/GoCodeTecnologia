@@ -7,9 +7,9 @@ Site da empresa criada para o desenvolvimento dos projetos do curso superior ci�
   
   <li><p>👨‍💻 Gabriel Henrique</p></li>
   
-  <li><p>👨‍💻 Matheus do Prado</p></li>
+  <li><p>👨‍💻 Enzo Vilanova</p></li>
   
-  <li><p>👨‍💻 Wesley Queiroz</p></li>
+  <li><p>👨‍💻 Luis</p></li>
   
 </ul>
 
