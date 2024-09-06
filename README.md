@@ -6,6 +6,8 @@ Site da empresa criada para o desenvolvimento dos projetos do curso superior ci�
   <li><p>👨‍💻 André Nascimento</p></li>
   
   <li><p>👨‍💻 Gabriel Henrique</p></li>
+
+  <li><p>👨‍💻 Matehsu Prado</p></li>
   
   <li><p>👨‍💻 Enzo Vilanova</p></li>
   
